@@ -83,7 +83,7 @@ h3{
     background-repeat: no-repeat;
     background-image: url(../assets/image/building-8259184_1280.webp);
 background-size: cover;
-border-radius: 20px;
+
 
 
  }
@@ -187,7 +187,7 @@ background-color: rgba(0, 0, 0, 0.598);
     border-radius: 5px;
 }
 .container-2{
-    max-width: 1200px;
+    max-width: 950px;
     margin:80px;
     padding: 30px;
     background-color: F;
